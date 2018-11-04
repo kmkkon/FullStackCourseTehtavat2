@@ -1,0 +1,14 @@
+{
+  "persons": [
+    {
+      "name": "Vippe Villi",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Kaisa Könnölä",
+      "number": "050 3715 592",
+      "id": 2
+    }
+  ]
+}
